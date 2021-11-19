@@ -1,4 +1,4 @@
-### Olá, sou *Dener*, Desenvolvedor.
+### Olá, sou *Dener*.
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/LcfBYS8BKhCvK/giphy.gif" width="400px" />
 
